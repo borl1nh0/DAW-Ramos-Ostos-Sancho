@@ -58,9 +58,9 @@ Git avanzado: ramas, merge/rebase, GitHub Flow, CI/CD, hooks.
 
 ## 👥 Equipo de Trabajo
 
-Este es un proyecto colaborativo realizado por estudiantes del CFGS en Desarrollo de Aplicaciones Web.
+Este es un proyecto colaborativo realizado por estudiantes Desarrollo de Aplicaciones Web EN el IES Poligono Sur.
 
-**Integrantes del grupo:** Ramos, Ostos, Sancho
+**Integrantes del grupo:** Aritz Ramos, Antonio Ostos, Juan Antonio Sancho
 
 ## 📝 Cómo Usar Este Repositorio
 
