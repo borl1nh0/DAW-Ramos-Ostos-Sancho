@@ -1,0 +1,41 @@
+title: Despliegue de Aplicaciones Web
+description: Repositorio documental del módulo DAW - CFGS Desarrollo de Aplicaciones Web
+theme: just-the-docs
+
+# Just the Docs configuration
+color_scheme: light
+search_enabled: true
+search.button: true
+
+# Collections for navigation structure
+collections:
+  docs:
+    output: true
+
+# Navigation
+nav_sort: case_insensitive
+
+# Exclude files from build
+exclude: 
+  - .git
+  - .gitignore
+  - LICENSE
+  - actividad_repositorio_github.pdf
+
+# Enables MathJax
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# Footer
+footer_content: "Copyright &copy; 2026 - CFGS Desarrollo de Aplicaciones Web"
+
+# Enable analytics (optional)
+analytics:
+  provider: google
+  google:
+    measurement_id: ""
+
+# URLs
+url: https://github.com
+baseurl: /DAW-Ramos-Ostos-Sancho

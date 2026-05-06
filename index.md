@@ -18,31 +18,31 @@ Bienvenido al repositorio documental del módulo **Despliegue de Aplicaciones We
 
 Este repositorio recopila todos los materiales teóricos y prácticos trabajados en el módulo, organizados en 9 unidades didácticas:
 
-### [UD1 - Introducción al despliegue de aplicaciones web](ud1/index.md)
+### [UD1 - Introducción al despliegue de aplicaciones web](ud1/)
 Fundamentos sobre qué es el despliegue, ciclo de vida, entornos de desarrollo, staging y producción.
 
-### [UD2 - Conexiones remotas para administración de servidores](ud2/index.md)
+### [UD2 - Conexiones remotas para administración de servidores](ud2/)
 Protocolos y herramientas para gestión remota de servidores web: SSH, SCP, SFTP, túneles.
 
-### [UD3 - Despliegue en contenedores Docker](ud3/index.md)
+### [UD3 - Despliegue en contenedores Docker](ud3/)
 Contenerización de aplicaciones usando Docker: imágenes, contenedores, Dockerfile, Docker Compose.
 
-### [UD4 - Despliegue en servicios en la nube](ud4/index.md)
+### [UD4 - Despliegue en servicios en la nube](ud4/)
 Plataformas de despliegue en la nube: AWS, Azure, GCP, Heroku, Railway, Vercel, PaaS vs IaaS.
 
-### [UD5 - Administración de servidores web](ud5/index.md)
+### [UD5 - Administración de servidores web](ud5/)
 Gestión de servidores web: Apache, Nginx, hosts virtuales, módulos, logs, optimización.
 
-### [UD6 - Administración de servidores de aplicaciones](ud6/index.md)
+### [UD6 - Administración de servidores de aplicaciones](ud6/)
 Servidores de aplicaciones: Tomcat, Node.js/PM2, Gunicorn/uWSGI, PHP-FPM, balanceo de carga.
 
-### [UD7 - Securización de aplicaciones web](ud7/index.md)
+### [UD7 - Securización de aplicaciones web](ud7/)
 Protección de aplicaciones: HTTPS/TLS, certificados, cabeceras de seguridad, firewall, fail2ban.
 
-### [UD8 - Servicios de nombre de dominio (DNS)](ud8/index.md)
+### [UD8 - Servicios de nombre de dominio (DNS)](ud8/)
 Gestión de DNS: registros, BIND9, resolución, TTL, DNS inverso.
 
-### [UD9 - Control de versiones](ud9/index.md)
+### [UD9 - Control de versiones](ud9/)
 Git avanzado: ramas, merge/rebase, GitHub Flow, CI/CD, hooks.
 
 ---
@@ -76,5 +76,5 @@ Este es un proyecto colaborativo realizado por estudiantes del CFGS en Desarroll
 
 ---
 
-**Curso:** 2025-2026 | **Módulo:** Despliegue de Aplicaciones Web | **Fecha límite:** 19 de mayo de 2026
+**Curso:** 2024-2025 | **Módulo:** Despliegue de Aplicaciones Web | **Fecha límite:** 19 de mayo de 2026
 

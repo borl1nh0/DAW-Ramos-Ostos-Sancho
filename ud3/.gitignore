@@ -1,0 +1,43 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Jekyll stuff
+.jekyll-cache/
+.jekyll-metadata
+_site/
+.sass-cache/
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Ignore PDF temp files
+*.pdf~
+
+# Build files
+dist/
+build/
+*.o
+*.so
+
+# Logs
+*.log
+npm-debug.log*
